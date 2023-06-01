@@ -29,6 +29,6 @@ Multiplayer Tanks game made in Unity
 - Spawn Button
 ![Spawn](https://github.com/SharipovRus/Tanks/assets/106979924/5a379280-4ead-46f4-97de-bba709f9b69b)
 
--GamePlay
+- GamePlay
 ![Gameplay](https://github.com/SharipovRus/Tanks/assets/106979924/42ac9987-743c-4eeb-8190-7e2b43592015)
 
